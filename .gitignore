@@ -1,0 +1,4 @@
+#ignore the followqing:
+*,O
+*.Out
+*.exe
