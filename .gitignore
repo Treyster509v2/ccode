@@ -1,5 +1,5 @@
 #ignore the followqing:
-*,O
-*.Out
+*.o
+*.out
 *.exe
 db.php
